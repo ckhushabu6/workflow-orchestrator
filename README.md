@@ -304,8 +304,8 @@ Frontend and backend are deployable independently.
 
 Suggested deployment:
 
-* Frontend → Vercel
-* Backend → Render
+* Frontend → Netlify => https://workflow-orchestrator1.netlify.app/login
+* Backend → Render => https://workflow-orchestrator-jwxy.onrender.com
 * Database → MongoDB Atlas
 
 ---
